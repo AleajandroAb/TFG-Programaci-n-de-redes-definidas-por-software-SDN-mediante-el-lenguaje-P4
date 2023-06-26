@@ -35,7 +35,7 @@
         <onos.version>2.4.0</onos.version>
         <api.version>1.0</api.version>
         <onos.app.name>org.onosproject.traficban</onos.app.name>
-        <onos.app.title>diffserv</onos.app.title>
+        <onos.app.title>traficban</onos.app.title>
         <onos.app.origin>UVA</onos.app.origin>
         <onos.app.category>default</onos.app.category>
         <api.description>QoS REST API</api.description>    
