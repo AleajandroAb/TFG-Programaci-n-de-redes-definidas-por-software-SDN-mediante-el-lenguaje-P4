@@ -1,0 +1,8 @@
+org/onosproject/traficban/rest/AppWebResource.class
+org/onosproject/traficban/rest/ApiDocRegistrator.class
+org/onosproject/traficban/rest/AppWebResource$QosJson.class
+org/onosproject/traficban/QoSRestService.class
+org/onosproject/traficban/QosRestManager$RulesRecord.class
+org/onosproject/traficban/rest/AppWebApplication.class
+org/onosproject/traficban/QosRestManager.class
+org/onosproject/traficban/QosRestManager$ExistRule.class
