@@ -22,7 +22,7 @@
         <version>2.4.0</version>
     </parent>
 
-    <artifactId>diffserv</artifactId>
+    <artifactId>traficban</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
 

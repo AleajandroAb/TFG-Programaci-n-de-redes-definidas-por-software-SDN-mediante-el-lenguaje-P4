@@ -1,13 +1,13 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1687789844556
+Bnd-LastModified: 1688299839247
 Build-Jdk: 11.0.13
 Built-By: alejandroab
 Bundle-ClassPath: WEB-INF/classes
 Bundle-Description: ONOS OSGi bundle archetype
 Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
 Bundle-ManifestVersion: 2
-Bundle-Name: diffserv
-Bundle-SymbolicName: org.onosproject.diffserv
+Bundle-Name: traficban
+Bundle-SymbolicName: org.onosproject.traficban
 Bundle-Version: 1.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Export-Package: org.onosproject.traficban.rest;uses:="com.fasterxml.jack

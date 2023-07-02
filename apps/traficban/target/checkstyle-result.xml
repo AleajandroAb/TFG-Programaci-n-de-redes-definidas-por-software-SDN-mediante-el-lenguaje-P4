@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.10">
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/QosRestManager.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/QosRestManager.java">
 </file>
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/rest/AppWebApplication.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/rest/AppWebApplication.java">
 </file>
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/rest/package-info.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/rest/package-info.java">
 </file>
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/rest/AppWebResource.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/rest/AppWebResource.java">
 </file>
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/QoSRestService.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/QoSRestService.java">
 </file>
-<file name="/home/alejandroab/Aplicaciones/TFG-master (1)/Aplicacion6-diffserv/diffServ/src/main/java/org/onosproject/traficban/package-info.java">
+<file name="/home/alejandroab/Proyecto/apps/traficban/src/main/java/org/onosproject/traficban/package-info.java">
 </file>
 </checkstyle>

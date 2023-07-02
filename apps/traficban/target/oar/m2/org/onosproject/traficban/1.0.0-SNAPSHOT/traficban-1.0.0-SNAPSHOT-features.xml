@@ -14,10 +14,10 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
-<features xmlns="http://karaf.apache.org/xmlns/features/v1.2.0" name="diffserv-1.0.0-SNAPSHOT">
-    <feature name="diffserv" version="1.0.0-SNAPSHOT"
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.2.0" name="traficban-1.0.0-SNAPSHOT">
+    <feature name="traficban" version="1.0.0-SNAPSHOT"
              description="ONOS OSGi bundle archetype.">
         <feature>onos-api</feature>
-        <bundle>mvn:org.onosproject/diffserv/1.0.0-SNAPSHOT</bundle>
+        <bundle>mvn:org.onosproject/traficban/1.0.0-SNAPSHOT</bundle>
     </feature>
 </features>
